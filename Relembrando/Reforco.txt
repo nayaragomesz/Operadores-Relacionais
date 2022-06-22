@@ -1,0 +1,5 @@
+Esse exemplo mostra exatamente o que aparecera quando o Run As for acionado
+
+3 > 2? true
+3 < 2?false
+3 > 3?false
